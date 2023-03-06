@@ -96,6 +96,8 @@ Both partners:
 2. **Pull** the changes into your local copy.
 3. Repeat Steps 3 through 6 once more, switching Partner A and Partner B.
 
+Note: if you’re a group of 3, repeat this *entire* process, Steps 1 through 8 (although skip Step 1.1), with a new partner grouping.
+
 ### Step 9
 
 Once done, copy the HTTPS URL of Partner A's GitHub repo, and submit it in Courseworks for the assignment. Graders will be reviewing the commit & pull request history according to the rubric.
