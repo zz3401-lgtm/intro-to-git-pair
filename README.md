@@ -1,4 +1,4 @@
-# HW06: Git & GitHub
+# HW07: Git & GitHub
 
 ## Requirements
 
