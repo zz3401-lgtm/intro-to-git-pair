@@ -44,14 +44,15 @@ Partner B:
 
 Partner A:
 
-1. Review Partner B's **Pull Request** by looking at the code changed. If it looks correct, **merge** the PR. Once merged, you can delete the branch.
+1. Review Partner B's **Pull Request** by looking at the code changed. If it looks correct, **merge** the PR. Once merged, delete the branch.
 2. Make sure you're on the `main` branch before proceeding.
 3. **Pull** the new changes into your local copy. These are the changes made from Step 3.
 4. Create a new **branch**.
 5. Edit `unis.py` and add your UNI as a string in the list, **on the same line**.
 6. Save the file, then **commit** the file. Use a meaningful message to your commit message.
-7. Open up a **Pull Request** to merge your branch into the `main` branch.
-8. Locally, **switch** back to the `main` branch.
+7. **Push** the change to the remote repository.
+8. Open up a **Pull Request** to merge your branch into the `main` branch.
+9. Locally, **switch** back to the `main` branch.
 
 ### Step 5
 
@@ -62,19 +63,20 @@ Partner B:
 3. Create a new **branch**.
 4. Edit `unis.py` and add your UNI as a string in the list, **on the same line**.
 5. Save the file, then **commit** the file. Use a meaningful message to your commit message.
-6. Open up a **Pull Request** to merge your branch into the `main` branch.
-7. Locally, **switch** back to the `main` branch.
-8. Now, review Partner A's **Pull Request** from Step 4 by looking at the code changed. If it looks correct, **merge** the PR. Once merged, you can delete the branch.
-9. **Pull** the new changes into your local copy.
-10. **Check out** your branch and **merge** the changes from the `main` branch into your branch, **resolving the merge conflicts** as necessary so that both you and your partners' UNIs are in the list. You can read more on what merge conflicts are and how to address them [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts).
-11. **Push** your branch to update your pull request.
+6. **Push** the change to the remote repository.
+7. Open up a **Pull Request** to merge your branch into the `main` branch.
+8. Locally, **switch** back to the `main` branch.
+9. Now, review Partner A's **Pull Request** from Step 4 by looking at the code changed. If it looks correct, **merge** the PR. Once merged, delete the branch.
+10. **Pull** the new changes into your local copy.
+11. **Check out** your branch and **merge** the changes from the `main` branch into your branch, **resolving the merge conflicts** as necessary so that both you and your partners' UNIs are in the list. You can read more on what merge conflicts are and how to address them [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts).
+12. **Push** your branch to update your pull request.
 
 
 ### Step 6:
 
 Partner A:
 
-1. Review Partner B's **Pull Request** by looking at the code changed. If it looks correct, **merge** the PR. Once merged, you can delete the branch.
+1. Review Partner B's **Pull Request** by looking at the code changed. If it looks correct, **merge** the PR. Make sure there are no merge conflicts. Once merged, delete the branch.
 
 ### Step 7:
 
@@ -84,7 +86,7 @@ Partner A:
 2. **Pull** the new changes into your local copy.
 3. Delete `unis.py` file.
 4. **Commit** the changes to your `main` branch
-5. Push the changes to the `main` branch.
+5. **Push** the changes to the `main` branch.
    
 ### Step 8
 
