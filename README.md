@@ -17,7 +17,7 @@ Follow these instructions closely, in the order given.
 ### Step 1
 Partner A: 
    
-1. Create a **fork** of this repository into your own account. Your fork is now considered the "remote" repository.
+1. Create a **fork** of [this repository](https://github.com/CUToolsForAnalytics/intro-to-git-pair) into your own account. Your fork is now considered the "remote" repository.
 2. Add permissions so your partner can also access your repository. Follow [these instructions](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) to do so.
 
 ### Step 2
